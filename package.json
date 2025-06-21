@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-image-picker": "^4.10.2",
+    "react-native-permissions": "^5.4.1",
+    "react-native-tesseract-ocr": "^2.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
